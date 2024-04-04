@@ -1,4 +1,4 @@
-<h1 align="center">Hi there thanks for stoping by and check my profile! </h1>
+<h1 align="center">Hi there, thanks for stoping by and check my profile! </h1>
 
 <div align="center"> 
   <picture>
